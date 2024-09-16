@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   /* background: url(../img/hero-bg.jpg) top center; */
-  background: url(../img/cookie_bg1.jpg) top center;
+  background: url(../img/3js/3JS_3D_Logo-removebg-preview.png) top center;
   background-size: cover;
 }
 
@@ -545,11 +545,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: #688a40;
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid #688a40;
 }
 
 #services .service-icon i {
@@ -803,7 +803,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #03C4EB;
+  color: #445778;
   float: left;
 }
 
@@ -813,8 +813,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #03C4EB;
-  border: 1px solid #03C4EB;
+  color: #445778;
+  border: 1px solid #445778;
   display: none;
   text-align: center;
   padding: 15px;
@@ -850,7 +850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #03C4EB;
+  background: #445778;
   border: 0;
   padding: 10px 24px;
   color: #fff;
